@@ -1,0 +1,7 @@
+include dash_component_nebula/dash_component_nebula.min.js
+include dash_component_nebula/dash_component_nebula.min.js.map
+include dash_component_nebula/metadata.json
+include dash_component_nebula/package-info.json
+include README.md
+include LICENSE
+include package.json
